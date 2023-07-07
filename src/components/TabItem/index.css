@@ -1,0 +1,22 @@
+.tabItem {
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #7b8794;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.tabList {
+  list-style-type: none;
+}
+
+.button {
+  border: none;
+  background: transparent;
+  border-bottom: 2px solid #dfe2e5;
+}
+.active-button {
+  border: none;
+  background: transparent;
+  border-bottom: 2px solid #2563eb;
+}

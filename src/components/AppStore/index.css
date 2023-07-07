@@ -1,0 +1,45 @@
+.bgContainer {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: Bree serif;
+  font-size: 66px;
+}
+.searchContainer {
+  width: 40%;
+  display: flex;
+  border: 1px #1e293b solid;
+  padding: 5px;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+.searchInput {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.searchImg {
+  height: 20px;
+  width: 20px;
+}
+.tabItems {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hr {
+  color: #dfe2e5;
+}
+.appItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}

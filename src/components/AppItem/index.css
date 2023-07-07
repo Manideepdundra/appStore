@@ -1,0 +1,16 @@
+.eachApp {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+}
+.appList {
+  list-style-type: none;
+}
