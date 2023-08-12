@@ -328,7 +328,7 @@ class AppStore extends Component {
         <h1 className="heading">App Store</h1>
         <div className="searchContainer">
           <input
-            type="search"
+            type="text"
             placeholder="Search"
             onChange={this.searchApp}
             className="searchInput"
